@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Gabriel Padilha and i love devlopment in my free time.
+I am Gabriel Padilha and i love to develop small projects in my free time.
 
-🔭 I’m currently working on some projects to improve my skills in frontend / backend development
+🔭 I’m currently working on some projects to improve my skills in frontend / backend.
 
-💬 Ask me about anything you want, feel free to send an e-mail to `gabrielpadilhasantos@gmail.com` and i will reply when i get time.
+💬 Ask me about anything you want, feel free to send an e-mail to `gabrielpadilhasantos@gmail.com` and i will reply ASAP.
+
+📫 Add me on linkedin: https://www.linkedin.com/in/gabriel-padilha/
 
 ⚡ Fun fact:  Fact, bears eat beets. Bears, beets, "Battlestar Galactica."
