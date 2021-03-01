@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Gabriel Padilha and i love devlopment in my free time.
+
+🔭 I’m currently working on some projects to improve my skills in frontend / backend development
+
+💬 Ask me about anything you want, feel free to send an e-mail to `gabrielpadilhasantos@gmail.com` and i will reply when i get time.
+
+⚡ Fun fact:  Fact, bears eat beets. Bears, beets, "Battlestar Galactica."
