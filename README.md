@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Gabriel Padilha and i love to develop small projects in my free time.
-
-🔭 I’m currently working on some projects to improve my skills in frontend / backend.
+🔭 I’m currently working on some projects to improve my skills and be a fullstask developer.
 
 💬 Ask me about anything you want, feel free to send an e-mail to `gabrielpadilhasantos@gmail.com` and i will reply ASAP.
 
