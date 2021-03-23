@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-padilha/)](https://www.linkedin.com/in/gabriel-padilha/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabriel.padilh4/)](https://www.instagram.com/gabriel.padilh4/)
