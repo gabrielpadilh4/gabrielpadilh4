@@ -8,10 +8,3 @@ Would you like to find me ?
 
 ### Github Stats
 ![Gabriel Padilh4's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielpadilh4&show_icons=true&theme=dracula)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=gabrielpadilh4)](https://github.com/gabrielpadilh4)
-
-
-
-
-
