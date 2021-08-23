@@ -9,10 +9,10 @@ Would you like to find me ?
 ### My GitHub Stats
 
 <a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpadilh4&hide=java,html&title_color=000000&text_color=000000" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpadilh4&hide=java,html&title_color=000000&text_color=000000" />
 </a>
 
 <a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielpadilh4&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="gabrielpadilh4's GitHub Stats" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielpadilh4&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="gabrielpadilh4's GitHub Stats" />
 </a>
 
