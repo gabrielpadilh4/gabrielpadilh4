@@ -2,9 +2,18 @@
 
 [![](https://img.shields.io/badge/Senior%20Techinical%20Support%20Engineer%20at%20red%20hat-ee0000?logo=red-hat&style=for-the-badge)](https://redhat.com)
 
-[![Red Hat Certified OpenShift Application Developer](https://images.credly.com/size/120x120/images/f7107c13-ff27-467c-ac8e-ba4ba609050b/image.png)](https://www.credly.com/badges/baf24700-e709-4eb3-9ccf-d57d741affcb/ "Red Hat Certified OpenShift Application Developer")
-[![Red Hat Certified Specialist in Containers](https://images.credly.com/size/120x120/images/272f17b3-2eb9-4e5f-aa3c-66c6b137fb27/image.png)](https://www.credly.com/badges/693aa11a-aa3e-412b-bd8f-074eb9c69b57/ "Red Hat Certified Specialist in Containers")
-[![Red Hat Certified Specialist in Enterprise Application Server Administration](https://images.credly.com/size/110x110/images/8a758b1b-7565-4971-b4a4-779ecc6f782b/image.png)](https://www.credly.com/badges/81dae6ce-83ae-4164-a212-f9cae5766772/ "Red Hat Certified Specialist in Enterprise Application Server Administration")
+
+
+<a href="https://www.credly.com/earner/earned/badge/f3902591-4c17-4c58-aa08-c4d325be7eb5" target="_blank">
+    <img src="https://images.credly.com/images/f7107c13-ff27-467c-ac8e-ba4ba609050b/image.png" alt="Red Hat Certified OpenShift Application Developer" width="120" height="120">
+</a>
+<a href="https://www.credly.com/badges/879db7d5-914c-468e-8e28-7599733b38f7" target="_blank">
+    <img src="https://images.credly.com/images/272f17b3-2eb9-4e5f-aa3c-66c6b137fb27/image.png" alt="Red Hat Certified Specialist in Containers" width="120" height="120">
+</a>
+<a href="https://www.credly.com/badges/81dae6ce-83ae-4164-a212-f9cae5766772" target="_blank">
+    <img src="https://images.credly.com/images/8a758b1b-7565-4971-b4a4-779ecc6f782b/image.png" alt="Red Hat Certified Specialist in Enterprise Application Server Administration" width="120" height="120">
+</a>
+
 
 <a href="https://www.buymeacoffee.com/gabrielpadilh4" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
