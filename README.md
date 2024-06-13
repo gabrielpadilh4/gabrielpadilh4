@@ -4,7 +4,7 @@
 
 
 
-<a href="https://www.credly.com/earner/earned/badge/f3902591-4c17-4c58-aa08-c4d325be7eb5" target="_blank">
+<a href="https://www.credly.com/badges/f3902591-4c17-4c58-aa08-c4d325be7eb5" target="_blank">
     <img src="https://images.credly.com/images/f7107c13-ff27-467c-ac8e-ba4ba609050b/image.png" alt="Red Hat Certified OpenShift Application Developer" width="120" height="120">
 </a>
 <a href="https://www.credly.com/badges/879db7d5-914c-468e-8e28-7599733b38f7" target="_blank">
