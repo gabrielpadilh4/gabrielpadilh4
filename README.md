@@ -1,5 +1,3 @@
-## Hi 👋
-
 [![](https://img.shields.io/badge/Senior%20Techinical%20Support%20Engineer%20at%20red%20hat-ee0000?logo=red-hat&style=for-the-badge)](https://redhat.com)
 
 
