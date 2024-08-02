@@ -1,5 +1,8 @@
 [![](https://img.shields.io/badge/Senior%20Techinical%20Support%20Engineer%20at%20red%20hat-ee0000?logo=red-hat&style=for-the-badge)](https://redhat.com)
 
+<a href="https://www.credly.com/badges/b66e2123-d8b5-4eb4-adea-48c506921aca" target="_blank">
+    <img src="https://images.credly.com/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" alt="Red Hat Certified Engineer (RHCE)" width="120" height="120">
+</a>
 
 <a href="https://www.credly.com/badges/7f8c8d26-f7eb-4427-a1e9-04e395a39073" target="_blank">
     <img src="https://images.credly.com/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="Red Hat Certified System Administrator (RHCSA)" width="120" height="120">
