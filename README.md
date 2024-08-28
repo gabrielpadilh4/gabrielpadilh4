@@ -13,6 +13,9 @@
 <a href="https://www.credly.com/badges/879db7d5-914c-468e-8e28-7599733b38f7" target="_blank">
     <img src="https://images.credly.com/images/272f17b3-2eb9-4e5f-aa3c-66c6b137fb27/image.png" alt="Red Hat Certified Specialist in Containers" width="120" height="120">
 </a>
+<a href="https://www.credly.com/badges/1ed56aab-d8a0-4feb-bc97-d1d74065125f" target="_blank">
+    <img src="https://images.credly.com/images/6eb5499c-cf76-4837-ac72-6a254139af1a/image.png" alt="Red Hat Certified Specialist in API Management" width="120" height="120">
+</a>
 <a href="https://www.credly.com/badges/81dae6ce-83ae-4164-a212-f9cae5766772" target="_blank">
     <img src="https://images.credly.com/images/8a758b1b-7565-4971-b4a4-779ecc6f782b/image.png" alt="Red Hat Certified Specialist in Enterprise Application Server Administration" width="120" height="120">
 </a>
