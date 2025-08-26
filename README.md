@@ -32,11 +32,7 @@
     <img src="https://images.credly.com/images/8a758b1b-7565-4971-b4a4-779ecc6f782b/image.png" alt="Red Hat Certified Specialist in Enterprise Application Server Administration" width="120" height="120">
 </a>
 
-
-<a href="https://www.buymeacoffee.com/gabrielpadilh4" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-
-Would you like to find me ?
+Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-padilha/)](https://www.linkedin.com/in/gabriel-padilha/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabriel.padilh4/)](https://www.instagram.com/gabriel.padilh4/)
