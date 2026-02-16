@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/Software%20Maintenance%20Engineer%20at%20red%20hat-ee0000?logo=red-hat&style=for-the-badge)](https://redhat.com)
 
-<a href="https://www.credly.com/badges/c3812fde-de9e-41b0-8770-d209f35c0f0b/public_url" target="_blank">
+<a href="https://www.credly.com/badges/288a492a-0272-4802-b85f-74154e03966c/public_url" target="_blank">
     <img src="https://images.credly.com/images/fdac57a1-cecc-4790-89da-ac5e6121fef1/image.png" alt="Red Hat Certified Architect (RHCA)" width="120" height="120">
 </a>
 
